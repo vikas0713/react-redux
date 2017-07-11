@@ -1,0 +1,26 @@
+/* Custom Styling of the App  */
+
+body{
+    height: 100%;
+    background-color: azure;
+}
+
+.banner {
+    flex: 1;
+    background-color: mediumseagreen;
+    width: 100%;
+    height: 150px;
+}
+
+.input-class {
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.outline{
+    border: 1px solid #dcddff;
+}
+
+.container{
+    background-color: rgba(185, 237, 220, 0.4);
+}
